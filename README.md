@@ -32,8 +32,8 @@
 <h2 align="center">⚜Skills⚜</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,linux,react,bootstrap,php,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,mysql,python,angular,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,linux,react,bootstrap,php,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,mysql,python,angular,kotlin" /><br>
 </div>
 
  
