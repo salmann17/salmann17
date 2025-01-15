@@ -32,7 +32,7 @@
 <h2 align="center">⚜Skills⚜</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,linux,react,bootstrap,php,html,css,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=laravel,aws,linux,react,bootstrap,php,html,css,vscode,visualstudio" />
     <img src="https://skillicons.dev/icons?i=github,git,java,mysql,python,angular,kotlin,androidstudio,cs,arduino" /><br>
 </div>
 
