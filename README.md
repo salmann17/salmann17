@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
- 
+
+  ⚔ Actively initiatives in the field of Cybersecurity
+  
  ☁ Dedicated to deepening knowledge in cloud computing, particularly AWS Cloud, Docker, and Jenkins.
- 
- ⚔ Actively initiatives in the field of Cybersecurity
 
  💻 Aspiring Fullstack Developer with a strong commitment to mastering both frontend and backend technologies.
 
